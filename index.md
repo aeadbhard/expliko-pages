@@ -4,4 +4,4 @@ layout: default
 ---
 ## Primeros Pasos
 
-- [Completa tu perfil]({% link primeros-pasos/completar-perfil.html %})
+- [Completa tu perfil]({% link primeros-pasos/completar-perfil.md %})

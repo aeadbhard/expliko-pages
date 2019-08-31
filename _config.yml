@@ -1,5 +1,6 @@
 # Site
 name: Ayuda EXPLIKO
+dominio: expliko.com
 
 # Serving
 detach              : false
