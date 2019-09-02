@@ -1,6 +1,8 @@
 # Site
-name: Ayuda EXPLIKO
+name: Ayuda
+sitio: Expliko
 dominio: expliko.com
+mainweb: https://www.expliko.com
 
 # Serving
 detach              : false
