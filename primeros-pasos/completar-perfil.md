@@ -35,6 +35,10 @@ Si estás listo para  **vender**  asesorías, completa todos los datos de esta s
 ##### Datos Personales
 {: #datosPersonales }
 
+![Datos Personales](/images//user/usr_datos_personales.png){:class="img-fluid"}
+
+¿Qué debes llenar?
+
 -   **Nombre**.- Tu nombre y apellidos.
 -   **Presentacion breve**.- Texto corto que comunique rápidamente tu experiencia y logros, ejemplo:  _Soy especialista en community management desde 2012_.
 -   **Experiencia y credenciales**.- Espacio donde describes libremente la experiencia que tienes en un tema específico. Cuéntale a tus futuros clientes por qué eres tú el experto indicado para ellos: menciona tus logros, premios, títulos, certificaciones... todo.
@@ -48,13 +52,13 @@ Si estás listo para  **vender**  asesorías, completa todos los datos de esta s
 
 Sube tu mejor foto y el sistema  **tratará de enfocar tu rostro**  automáticamente.
 
-La foto  **funciona mejor**  cuando estás  **alejado**  de la cámara:
+La foto  **funciona mejor**  cuando estás algo  **alejado**  de la cámara:
 
 <table class='table'>
   <tbody>
     <tr>
       <td class='text-center'>Funciona bien</td>
-      <td class='text-center'>No funciona bien<br>
+      <td class='text-center'><strong>No funciona bien</strong><br>
       <small>(estás muy cerca)</small>
       </td>
     </tr>
@@ -72,6 +76,8 @@ Si tu foto no queda bien a la primera, ¡súbela de nuevo!
 ***
 ##### Nombre de Usuario
 {: #usuario }
+
+![Nombre de usuario](/images//user/usr_nombre_usuario.png){:class="img-fluid"}
 
 Tu nombre de usuario sirve para personalizar la **dirección web** de tu perfil.
 
@@ -91,17 +97,22 @@ Cambia tu nombre de usuario por uno que te identifique y comparte con todos tu p
 ##### Tiempos y Horarios
 {: #tiempos }
 
+![Tiempos y horarios](/images//user/usr_tiempos.png){:class="img-fluid"}
+
 - **Tu zona horaria**.- Establece la zona horaria donde estás, esto te facilitará coordinarte con expertos o clientes que estén en una zona horaria distinta a la tuya.
 Esto ayuda a **Tu Agenda** a mostrar los horarios correctos automáticamente.
-- **Horarios Preferidos**.- Si ofreces asesorías y tienes un horario preferido para impartirlas (después del trabajo, etc.) menciónalo aquí.
+- **Horarios Preferidos**.- Si ofreces asesorías y tienes un horario preferido para impartirlas (después del trabajo, etc.) menciónalo aquí. **Campo opcional**.
 - **Estás disponible a partir de**.- Si sales de vacaciones o no estarás disponible para impartir asesorías por unos días, 
-guarda aquí la fecha en que estarás disponible nuevamente.
+guarda aquí la fecha en que estarás disponible nuevamente. **Campo opcional**.
 
 [↑ Arriba](#arriba)
 
 ***
 ##### Correo Electrónico
 {: #email }
+
+![Correo electrónico](/images//user/usr_correo.png){:class="img-fluid"}
+
 A esta dirección enviamos todas las notificaciones de {{ site.sitio }}: cuando compras o vendes una asesoría,
 cuando recibes una pregunta, cuando realizas o se te realiza un pago, etc. ¡Mantenlo siempre actualizado!
 
